@@ -1,7 +1,7 @@
 # Cat Recogniser
 
 ## Overview
-Cat Recogniser is a simple Java application that interacts with users to gather information about their cats. It collects the number of cats, their names, hair types, and ages. It is part of the F29SA Software Development 1 course at Heriot-Watt University. This project demonstrates the application of fundamental programming concepts such as user input, data storage in arrays, conditional execution, and loops.
+Cat Recogniser is a simple Java application that interacts with users to gather information about their cats. It collects the number of cats, their names, hair types, and ages. It is part of the F27SA Software Development 1 course at Heriot-Watt University. This project demonstrates the application of fundamental programming concepts such as user input, data storage in arrays, conditional execution, and loops.
 
 ## Purpose
 The program is designed to help cat owners who have difficulty recognizing their multiple cats. It allows users to input details about their cats and then helps identify specific cats based on given criteria.
